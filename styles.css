@@ -13,11 +13,10 @@ body {
   align-items: center;
   padding: 20px;
   overflow: hidden;
-  background: linear-gradient(#CB356B, #BD3F32);
+  background: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612268761_7-p-krasivii-fon-fioletovii-kosmos-10.jpg);
 }
 
 .app {
-  background: #fff;
   padding: 20px;
   width: 600px;
   margin: 0 auto;
@@ -26,6 +25,7 @@ body {
 }
 
 .app__header {
+  color: white;
   padding: 20px;
   text-align: center;
 }
