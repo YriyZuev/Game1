@@ -109,7 +109,7 @@ body {
   touch-action: manipulation;
   cursor: pointer;
   user-select: none;
-  background: #fad64e;
+  background: linear-gradient(5deg,#8f00ff 0%, #fa00ff 80%);
   color: #3f3f3f;
   border: none;
   border-radius: 2.8rem;
